@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Personalregister", "Personalregister\Personalregister.csproj", "{ADBB0A7F-9B42-49D3-ADD3-3F3520CC946A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADBB0A7F-9B42-49D3-ADD3-3F3520CC946A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBB0A7F-9B42-49D3-ADD3-3F3520CC946A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBB0A7F-9B42-49D3-ADD3-3F3520CC946A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBB0A7F-9B42-49D3-ADD3-3F3520CC946A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26AE3832-3C3B-44E5-B4BC-0041C842DECD}
+	EndGlobalSection
+EndGlobal
